@@ -23,12 +23,12 @@
 <stop offset="0.838542" stop-color="#DEF0FF"/>
 </radialGradient>
 <radialGradient id="paint2_radial_10_56" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(165 201) rotate(90) scale(87 128)">
-<stop stop-color="#C0CEFF" stop-opacity="0.22"/>
-<stop offset="1" stop-color="#C0CEFF"/>
+<stop stop-color="#FEBC38" stop-opacity="0.22"/>
+<stop offset="1" stop-color="#FEBC38"/>
 </radialGradient>
 <radialGradient id="paint3_radial_10_56" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(175 175) rotate(90) scale(175)">
 <stop offset="0.874251" stop-color="#DEF0FF" stop-opacity="0"/>
-<stop offset="1" stop-color="#00549E"/>
+<stop offset="1" stop-color="#A12B01"/>
 </radialGradient>
 </defs>
 </svg>
